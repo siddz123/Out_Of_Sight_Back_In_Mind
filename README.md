@@ -37,7 +37,7 @@ Look for `🎯 Set Focus` in the top-right of your menu bar.
 2. Work normally. If you drift onto a blacklisted app or browser tab for 5+ minutes, the title flashes red.
 3. The first time it reads a browser URL, macOS will prompt **"Python wants to control [Chrome/Safari/Arc/Brave]"** — click **OK**. Without this permission, browser tab detection silently no-ops.
 4. When done, click `🟢 [goal]` → **✅ Mark as Complete**. Chime + banner + reset.
-5. **❌ Quit FocusGhost** to exit.
+5. **Quit FocusGhost** to exit.
 
 ## Configuration
 
